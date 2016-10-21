@@ -1,0 +1,1 @@
+A simple powershell script that will check the status of the Write Fileters on Windows Embedded systems.
